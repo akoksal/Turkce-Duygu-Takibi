@@ -1,4 +1,4 @@
-## Sunucu Endpoint Dökümantasyonu
+## Sunucu Endpoint Dokümantasyonu
 
 ### Operation Endpoint
 Sorgulama operasyonlarıyla ilgili işlemlerden sorumludur.
