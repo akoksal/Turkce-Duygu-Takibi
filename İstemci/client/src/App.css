@@ -1,0 +1,151 @@
+.App {
+  text-align: center;
+  margin-right: 15%;
+  margin-left: 15%;
+  font-family: Avenir, Helvetica, sans-serif;
+}
+@media all and (max-width: 700px) {
+.App {
+  text-align: center;
+  margin-right: 10px;
+  margin-left: 10px;
+  font-family: Avenir, Helvetica, sans-serif;
+}
+.App-bar {
+  height: 100px;
+  color:#1f1f1f;;
+  margin: 5px 0px 5px 0px !important;
+  border-radius: 10px;
+  font-size:small;
+}
+}
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+
+}
+.logo-text{
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  color: #ffa807;
+  font-size: 52pt;
+  font-family: 'Baloo Chettan 2';
+}
+
+.logo-text-secondary{
+  color:#262626;
+  font-size: 16pt;
+  margin-top:-15px;
+}
+.custom-tooltip{
+  background-color: #fff;
+  padding: 5px;
+  border-radius: 20px;
+  box-shadow: 5px 10px 8px #ddd;
+  max-width: 300px;
+}
+.App-bar {
+  height: 200px;
+  padding: 0px 50px 50px 50px;
+  margin: 25px 0px 40px 0px;
+  color:#1f1f1f;;
+  border-radius: 10px;
+}
+.line-chart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+  margin-top: 25px;
+}
+.App-intro {
+  font-size: large;
+}
+.left-align-row{
+  text-align: left;
+  width: 550px;
+}
+.query-list-item:hover {
+  background-color: #e3f6ff; 
+}
+.operations-list-item:hover {
+  background-color: #e3f6ff; 
+}
+.charts{
+  text-align: -webkit-center;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.operations-container{
+  min-height: 500px;
+}
+th, td {
+  border-top: 0px solid #ffffff;
+  border-bottom: 0px solid #efefef;
+}
+.table { margin-bottom: 0px; }
+th {
+  color:#262626;
+  border-top: none;
+  font-size: 12pt;
+  vertical-align: text-bottom;
+  align-self: flex-end;
+  padding-bottom: 4px !important;
+}
+.window{
+  border-radius: 8px;
+  border-color: #eaeaea; 
+  border-style: solid;
+  border-width: 1px;
+  padding: 0px 0px 10px 0px;
+  margin: 20px 0px 50px 0px;
+}
+.baslik{
+  padding: 5px;
+  width:100%;
+  background-color: #e9ecef;
+  font-size: 12pt;
+  display:block;
+}
+.App-altyazi{
+  right: 0px;
+  left: 0px;
+  height: 60px;
+  margin-top: 100px;
+  text-align: center;
+  font-size: 12px ;
+  font-family: 'Lato';
+  padding-top: 10px;
+  position: absolute;
+}
+.tweet-holder{
+  font-size: 10pt;
+}
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;  /* Preferred icon size */
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+
+  /* Support for all WebKit browsers. */
+  -webkit-font-smoothing: antialiased;
+  /* Support for Safari and Chrome. */
+  text-rendering: optimizeLegibility;
+
+  /* Support for Firefox. */
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Support for IE. */
+  font-feature-settings: 'liga';
+}
