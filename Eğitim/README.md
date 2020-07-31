@@ -1,6 +1,6 @@
 # Eğitim
 
-Bu bölümde hem ön eğitim (pretraining) aşaması için hem de ince ayar (finetuning) aşaması için gerekli kodlar paylaşıldı.
+Bu bölümde hem ön eğitim (pretraining) aşaması için hem de ince ayar (finetuning) aşaması için gerekli kodlar paylaşıldı. En iyi modelimizin ONNX formatına dönüştürülmüş halini [buradan](https://drive.google.com/file/d/1NWlShIdsEb543J6yIPCyKsANAHCwSR8X/view?usp=sharing) indirebilirsiniz.
 
 ### Kodlar
 *[İnce Ayar.ipynb](https://github.com/akoksal/Turkce-Duygu-Takibi/blob/master/Eg%CC%86itim/%C4%B0nce%20Ayar.ipynb)*: Farklı transformer modelleri, optimizerlar, eğitim oranları ve weight decayler için verilen bir konfigürasyon için BOUN Twitter veri seti üzerinden model eğitiliyor.
