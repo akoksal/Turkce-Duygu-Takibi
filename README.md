@@ -1,6 +1,6 @@
 [![sentmon](https://github.com/akoksal/Turkce-Duygu-Takibi/blob/medya/logo.png)](http://sentmon.herokuapp.com/)
 ### Türkçe Duygu Takip Sistemi
-[![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/) [![Node version](https://badgen.net/badge/node/6.14.5/red?icon=npm&label)](https://nodejs.org/en/download/)  [![Node version](https://badgen.net/badge/postgresql/12/blue?icon=postgresql)](https://www.postgresql.org/download/) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
+[![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/) [![Node version](https://badgen.net/badge/node/6.14.5/red?icon=npm&label)](https://nodejs.org/en/download/)  [![Pg version](https://badgen.net/badge/postgresql/12/blue?icon=postgresql)](https://www.postgresql.org/download/) [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://sentmon.herokuapp.com)
 
 
 Sentmon, Türkçe Twitter paylaşımlarının içeriklerinin analizini kullanıcılara sunan online bir Doğal Dil İşleme aracıdır. Sorgulanan özneyle ilgili sosyal medya kullanıcılarının tutumu hakkında bir fikir vermesi amaçlanmıştır. Kendi özel sorgunuzla arama yapabilir, duygusal puanlamanın zaman içerisindeki değişimini inceleyebilir ve belirli günlerde öne çıkan twitleri Sentmon aracılığıyla görüntüleyebilirsiniz!
@@ -35,7 +35,7 @@ Verilen bir metin için, bu metnin içerdiği duyguyu üç sınıf içerisinden 
 
 ## Takım
 
-[![Abdullatif](https://github.com/akoksal/Turkce-Duygu-Takibi/blob/medya/abdullatif.png)](https://github.com/akoksal)[![Erkam](https://github.com/akoksal/Turkce-Duygu-Takibi/blob/medya/erkam.png)](https://github.com/akoksal)[![Alperen](https://github.com/akoksal/Turkce-Duygu-Takibi/blob/medya/alperen.png)](https://github.com/akoksal)[![Melih](https://github.com/akoksal/Turkce-Duygu-Takibi/blob/medya/melih.png)](https://github.com/akoksal)
+[![Abdullatif](https://github.com/akoksal/Turkce-Duygu-Takibi/blob/medya/abdullatif.png)](https://github.com/akoksal)[![Erkam](https://github.com/akoksal/Turkce-Duygu-Takibi/blob/medya/erkam.png)](https://github.com/erkams)[![Alperen](https://github.com/akoksal/Turkce-Duygu-Takibi/blob/medya/alperen.png)](https://github.com/ayakut16)[![Melih](https://github.com/akoksal/Turkce-Duygu-Takibi/blob/medya/melih.png)](https://github.com/melihmutlu)
 
 
 
