@@ -7,6 +7,7 @@ import sys
 import pandas as pd
 import argparse
 import datetime
+import random
 
 parser = argparse.ArgumentParser(description='Process some integers.')
 parser.add_argument('--query')
@@ -41,9 +42,10 @@ total_data = 3*data_limit//5
 for i in range(total_day):
     day = (today-datetime.timedelta(i)).strftime("%Y-%m-%d")
     next_day = (today-datetime.timedelta(i-1)).strftime("%Y-%m-%d")
-    print(f"{query}, {target_fp} klasörüne en yakın twitler {day}-{next_day} günler arasında olacak şekilde toplam {total_data//total_day} twit çekilecek.")
+    x = random.randrange(total_data//total_day-5, total_data//total_day+5)
+    print(f"{query}, {target_fp} klasörüne en yakın twitler {day}-{next_day} günler arasında olacak şekilde toplam {x} twit çekilecek.")
 
-    commands = ["scrapy", "crawl", "TweetScraper", "-a", f"query=\"{query} since:{day} until:{next_day} \"", "-s", f"CLOSESPIDER_ITEMCOUNT={total_data//total_day}"]
+    commands = ["scrapy", "crawl", "TweetScraper", "-a", f"query=\"{query} since:{day} until:{next_day} \"", "-s", f"CLOSESPIDER_ITEMCOUNT={x}"]
     process = Popen(commands, stdout=PIPE, stderr=STDOUT, universal_newlines=True, cwd="TweetScraper/")
     for line in iter(process.stdout.readline, ''):
         print(line)
