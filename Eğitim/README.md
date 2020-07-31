@@ -56,6 +56,7 @@ En iyi sonuç alan modelin detayı:
 * Weight Decay: **0.01**
 * Ön işlem: **Url Silmek**
 
+![](https://live.staticflickr.com/65535/50173524568_44e146ba0c_b.jpg)
 
 Detaylı sonuçlar için: [İnce Ayar Analizleri.ipynb](https://github.com/akoksal/Turkce-Duygu-Takibi/blob/master/Eg%CC%86itim/%C4%B0nce%20Ayar%20Analizleri.ipynb)
 
