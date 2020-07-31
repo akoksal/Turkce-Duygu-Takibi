@@ -1,6 +1,6 @@
 # Veriler
 
-Bu çalışmada duygu analizi için işaretlenmiş **Türkçe BOUN Veri Seti**'ni kullandık. Ardından, sonuçları iyileştirmek için Twitter’dan topladığımı **Mandalina Emoji Veri Seti**'ni tanıtıp kullanıyoruz.
+Bu çalışmada duygu analizi için işaretlenmiş **Türkçe BOUN Veri Seti**'ni kullandık. Ardından, sonuçları iyileştirmek için Twitter’dan topladığımız **Mandalina Emoji Veri Seti**'ni tanıtıp kullanıyoruz.
 
 
 ## BOUN Twitter Veri Seti
