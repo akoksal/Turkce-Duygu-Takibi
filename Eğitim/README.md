@@ -96,5 +96,8 @@ için
 
 *("Bu tam bir hayal kırıklığı", "Sınav için çok stresliyim")* ikilisi aynı kategoriden emojiler içerdiği için bunların aynı olduğunu modelimizin bu şekilde (1) ayırt etmesini istiyoruz.
 
+
+![](https://live.staticflickr.com/65535/50174348517_25545f3bb8.jpg)
+
 *** 
 En iyi çıkan Distilled BerTurk modeli için emojili ön eğitimlerde istatistiksel olarak anlamlı bir gelişme gözlenmedi. Bunun, BOUN Twitter Verisinin potansiyel olarak içerdiği gürültülü (noisy) verilerden kaynaklandığını düşünüyoruz. Sorgu temelli yapılan çalışmalarda daha iyi sonuçlar gözlemlendi.
