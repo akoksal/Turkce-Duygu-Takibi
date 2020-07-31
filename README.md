@@ -1,4 +1,4 @@
-![sentmon](https://github.com/akoksal/Turkce-Duygu-Takibi/blob/master/Go%CC%88rseller/logo.png)
+[![sentmon](https://github.com/akoksal/Turkce-Duygu-Takibi/blob/medya/logo.png)](http://sentmon.herokuapp.com/)
 ### Türkçe Duygu Takip Sistemi
 [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/) [![Node version](https://badgen.net/badge/node/6.14.5/red?icon=npm&label)](https://nodejs.org/en/download/)  [![Node version](https://badgen.net/badge/postgresql/12/blue?icon=postgresql)](https://www.postgresql.org/download/) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 
@@ -34,9 +34,9 @@ Verilen bir metin için, bu metnin içerdiği duyguyu üç sınıf içerisinden 
 ***
 
 ## Takım
-| [Abdullatif Köksal](https://github.com/akoksal)	| [Erkam Şeker](https://github.com/erkams)	| [Alperen Yakut](https://github.com/ayakut16) 	| [Melih Mutlu](https://github.com/melihmutlu)  |
-|------	|-------	|---------	|-------	|
 
-![Takım](https://live.staticflickr.com/65535/50174372447_82844cb8a0_z.jpg)
+[![Abdullatif](https://github.com/akoksal/Turkce-Duygu-Takibi/blob/medya/abdullatif.png)](https://github.com/akoksal)[![Erkam](https://github.com/akoksal/Turkce-Duygu-Takibi/blob/medya/erkam.png)](https://github.com/akoksal)[![Alperen](https://github.com/akoksal/Turkce-Duygu-Takibi/blob/medya/alperen.png)](https://github.com/akoksal)[![Melih](https://github.com/akoksal/Turkce-Duygu-Takibi/blob/medya/melih.png)](https://github.com/akoksal)
+
+
 
 *Bu proje [Açık Hackathon](https://www.acikhack.com/)'a katılmak amacıyla :tangerine:Mandalina ekibi tarafından geliştirilmiştir.*
