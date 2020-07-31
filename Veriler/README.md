@@ -21,6 +21,8 @@ Mandalina Emoji Veri Seti, Türkçe duygu analizi modellerin geliştirilmesi iç
 
 Örnek veri için *emoji_sample.csv* dosyasına bakabilirsiniz. Verinin tamamını indirmek için [buraya](https://drive.google.com/file/d/1z9un8GnaHH2--07yS0O_4jM88vNG14nv/view?usp=sharing) tıklayınız.
 
+Bu emoji verisini iki farklı ön eğitim aşaması için farklı transformers modelleri için kullandık. Detayları [Eğitim](https://github.com/akoksal/Turkce-Duygu-Takibi/tree/master/E%C4%9Fitim) klasöründe bulabilirsiniz.
+
 ---
 **Not**
 
