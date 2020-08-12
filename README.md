@@ -5,6 +5,10 @@
 
 Sentmon, Türkçe Twitter paylaşımlarının içeriklerinin analizini kullanıcılara sunan online bir Doğal Dil İşleme aracıdır. Sorgulanan özneyle ilgili sosyal medya kullanıcılarının tutumu hakkında bir fikir vermesi amaçlanmıştır. Kendi özel sorgunuzla arama yapabilir, duygusal puanlamanın zaman içerisindeki değişimini inceleyebilir ve belirli günlerde öne çıkan twitleri Sentmon aracılığıyla görüntüleyebilirsiniz!
 
+Proje sunumuna ve demosuna repodan veya linklerden ulaşabilirsiniz. [ [Sunum](https://docs.google.com/presentation/d/1bL4-B1xej7f8vah5c-5gTzmeePbInKuVFKplfgSqWOs/edit?usp=sharing) | [Demo](https://drive.google.com/file/d/1ZeNRqsaEq3_aWTphKKVqbi9bxZ3IfCUK/view) ]
+
+![Demo gif](https://github.com/akoksal/Turkce-Duygu-Takibi/blob/medya/demo.gif)
+
 
 ***
 
